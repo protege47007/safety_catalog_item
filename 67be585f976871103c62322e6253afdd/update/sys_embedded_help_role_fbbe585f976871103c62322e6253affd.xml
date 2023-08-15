@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1102749_safety.admin" name="x_1102749_safety.admin">73be585f976871103c62322e6253affc</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-14 09:22:30</sys_created_on>
+        <sys_id>fbbe585f976871103c62322e6253affd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>73be585f976871103c62322e6253affc</sys_name>
+        <sys_package display_value="Safety" source="x_1102749_safety">67be585f976871103c62322e6253afdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">67be585f976871103c62322e6253afdd</sys_scope>
+        <sys_update_name>sys_embedded_help_role_fbbe585f976871103c62322e6253affd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-14 09:22:30</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
